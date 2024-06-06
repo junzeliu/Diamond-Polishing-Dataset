@@ -29,13 +29,5 @@ The progress of the surface roughness during the polishing process S179, S233, S
 
 Creative Commons Attribution v4
 
-### Citation
-```
-    XXXX
-```
 ### Acknowledgements
-This work was performed under the auspices of the U.S. Department of Energy by LLNL under contract DE-AC52 -07NA27344 and was supported by the LLNL laboratory-directed research and
-development (LDRD) program under project 23-ERD-014. We would also like to thank Dan Clark
-from Lawrence Livermore National Lab (LLNL) for his inputs and for generating Figure 3 and
-Juergen Biener (LLNL) and Christoph Wild from Diamond Materials GmBH for many helpful
-discussions.
+This work was performed under the auspices of the U.S. Department of Energy by LLNL under contract DE-AC52 -07NA27344 and was supported by the LLNL laboratory-directed research and development (LDRD) program under project 23-ERD-014. We would also like to thank Dan Clark from Lawrence Livermore National Lab (LLNL) for his inputs and for generating Figure 3 and Juergen Biener (LLNL) and Christoph Wild from Diamond Materials GmBH for many helpful discussions.
