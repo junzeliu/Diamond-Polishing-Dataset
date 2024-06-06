@@ -8,7 +8,7 @@ __Authors__: Antonios Alexos, Junze Liu, Shashank Galla, Sean Hayes, Kshitij Bha
 - [Acknowledgements](#acknowledgements)
 
 ### Downloading Dataset
-The data is accessible through [Google Drive](https://drive.google.com/drive). The polishing runs are divided and stored as training data and test data. The training data include polishing runs: S173, S179, and S211. The test data include: S233 and S238.
+The data is accessible at [https://mlphysics.ics.uci.edu/data/2024_nuclear_fusion_diamonds/](https://mlphysics.ics.uci.edu/data/2024_nuclear_fusion_diamonds/). The polishing runs are divided and stored as training data and test data. The training data include polishing runs: S173, S179, and S211. The test data include: S233 and S238.
 
 ### Dataset Descriptions
 We test and adapt separately for each of the testing data due to the domain adapatation approach. For the S173, S211, and S233 we use polishing 1 run (≈ 25 hours) where only start/end Sa values are known; we break the 25-hour into 6 minute samples and determine intermediate Sa values assuming linear change for 1st hour and log change for the remaining hours. For the S179 we use polishing 1 run which is 12 hours long where only start/end Sa values known so break the 12 hours into 6min samples, and determine intermediate Sa values assuming log change. For the S238 we use polishing 1,2,3 runs which are 30 minutes long each while polishing 4 run is 23.5 hours long. We assume linear decline in the first 2 runs, and log decline for the rest.
