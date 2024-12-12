@@ -1,5 +1,7 @@
 __Authors__: Antonios Alexos, Junze Liu, Shashank Galla, Sean Hayes, Kshitij Bhardwaj, Alexander Schwartz, Monika Biener, Pierre Baldi, Satish Bukkapatnam, Suhas Bhandarkar
 
+This paper is published at NeurIPS 2024 Track on Datasets and Benchmark (https://neurips.cc/virtual/2024/poster/97539).
+
 - [Downloading Dataset](#downloading-dataset)
 - [Dataset Descriptions](#dataset-descriptions)
 - [Data Details](#data-details)
@@ -28,6 +30,16 @@ The progress of the surface roughness during the polishing process S179, S233, S
 ### License
 
 Creative Commons Attribution v4
+
+### Citing Dataset
+
+```
+@inproceedings{alexosnuclear,
+  title={Nuclear Fusion Diamond Polishing Dataset},
+  author={Alexos, Antonios and Liu, Junze and Galla, Shashank and Hayes, Sean and Bhardwaj, Kshitij and Schwartz, Alexander and Biener, Monika and Baldi, Pierre and Bukkapatnam, Satish and Bhandarkar, Suhas},
+  booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track}
+}
+```
 
 ### Acknowledgements
 This work was performed under the auspices of the U.S. Department of Energy by LLNL under contract DE-AC52 -07NA27344 and was supported by the LLNL laboratory-directed research and development (LDRD) program under project 23-ERD-014. We would also like to thank Dan Clark from Lawrence Livermore National Lab (LLNL) for his inputs and for generating Figure 3 and Juergen Biener (LLNL) and Christoph Wild from Diamond Materials GmBH for many helpful discussions.
