@@ -1,6 +1,6 @@
 __Authors__: Antonios Alexos, Junze Liu, Shashank Galla, Sean Hayes, Kshitij Bhardwaj, Alexander Schwartz, Monika Biener, Pierre Baldi, Satish Bukkapatnam, Suhas Bhandarkar
 
-This paper is published at NeurIPS 2024 Track on Datasets and Benchmark (https://neurips.cc/virtual/2024/poster/97539).
+This paper is published in [NeurIPS 2024 Track on Datasets and Benchmark](https://neurips.cc/virtual/2024/poster/97539).
 
 - [Downloading Dataset](#downloading-dataset)
 - [Dataset Descriptions](#dataset-descriptions)
